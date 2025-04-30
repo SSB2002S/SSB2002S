@@ -25,4 +25,4 @@
 
 ### 📫 كيف تتواصل معي؟
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://github.com/SSB2002S)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/ssb2002s](https://www.linkedin.com/in/saeed-baaidhan-156263260))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/saeed-baaidhan-156263260)]
