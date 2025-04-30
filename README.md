@@ -1,5 +1,9 @@
 # SSB2002S 👋
 
+🚀 **I’m Saeed Baaidhan**, a passionate developer proficient in:  
+**HTML | CSS | JavaScript | Bootstrap**  
+🔥 *Working toward becoming a Full Stack Developer*
+
 ## 🛠️ Tech Stack:
 **اللغات والأدوات التي أستخدمها:**  
 
