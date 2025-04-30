@@ -18,11 +18,7 @@
 ## 📈 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSB2002S&show_icons=true&theme=radical)](https://github.com/SSB2002S)  
 
-## 🌟 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSB2002S&layout=compact&theme=radical)](https://github.com/SSB2002S)
-
----
 
 ### 📫 كيف تتواصل معي؟
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://github.com/SSB2002S)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/saeed-baaidhan-156263260)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saeed-baaidhan-156263260)
