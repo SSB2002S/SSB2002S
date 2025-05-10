@@ -20,5 +20,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 📫 كيف تتواصل معي؟
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://github.com/SSB2002S)
+[![Portfolio](https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://ssb2002s.github.io/My-Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/SSB2002S)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saeed-baaidhan-156263260)
