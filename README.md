@@ -1,4 +1,4 @@
-![Banner](SAEED BAAIDHAN_20250227_134518_٠٠٠٠.png)
+![Banner](banner.png)
 
 # SSB2002S 👋
 
