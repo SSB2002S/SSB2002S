@@ -19,6 +19,28 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+## 💼 Featured Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| [Handel Landing Page](https://github.com/SSB2002S/Handel-Landing-Page) | A responsive and modern landing page for a business service. | HTML, CSS |
+| [My Portfolio Website](https://ssb2002s.github.io/My-Portfolio/) | A personal portfolio showcasing my work and skills. | HTML, CSS, JavaScript |
+
+## 📊 GitHub Stats
+
+![Saeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSB2002S&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SSB2002S&layout=compact&theme=radical)
+
+
+
+## ❤️ Interests
+
+- Front-End development and modern UI/UX design.
+- Building fast, responsive, and accessible websites.
+- Working on creative UI projects.
+- Continuously improving coding and design skills.
+
+
 ### 📫 كيف تتواصل معي؟
 [![My Website](https://img.shields.io/badge/My%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://ssb2002s.github.io/My-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/SSB2002S)
