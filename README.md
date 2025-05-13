@@ -23,7 +23,7 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Handel Landing Page](https://github.com/SSB2002S/Handel-Landing-Page) | A responsive and modern landing page for a business service. | HTML, CSS |
+| [Handel Landing Page](https://ssb2002s.github.io/huddle-landing-page/) | A responsive and modern landing page for a business service. | HTML, CSS |
 | [My Portfolio Website](https://ssb2002s.github.io/My-Portfolio/) | A personal portfolio showcasing my work and skills. | HTML, CSS, JavaScript |
 
 ## 📊 GitHub Stats
