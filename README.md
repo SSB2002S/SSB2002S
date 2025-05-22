@@ -30,8 +30,9 @@
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [Handel Landing Page](https://ssb2002s.github.io/huddle-landing-page/) | A responsive and modern landing page for business services. | HTML, CSS |
-| [My Portfolio Website](https://ssb2002s.github.io/My-Portfolio/) | A personal portfolio showcasing my projects and design skills. | HTML, CSS, JavaScript |
+| [Handel Landing Page](https://ssb2002s.github.io/huddle-landing-page/) | A responsive and modern landing page for business services. | HTML, CSS, Fontawesome |
+| [My Portfolio Website](https://ssb2002s.github.io/My-Portfolio/) | A personal portfolio showcasing my projects and design skills. | HTML, CSS, JavaScript, Fontawesome |
+| [Product Management System](https://ssb2002s.github.io/Product-Managment-System/) | A Simple product management system. | HTML, CSS, JavaScript, Sweetalert2 , Fontawesome |
 
 ---
 
