@@ -2,11 +2,10 @@
 
 # SSB2002S 👋
 
-🚀 **Hi, I'm Saeed Baaidhan**, a passionate **Front-End Developer** skilled in:  
-**HTML | CSS | JavaScript | Bootstrap | UI/UX Design**  
-🔥 *Dedicated to crafting beautiful and responsive user interfaces*
+🚀 Hi, I'm Saeed Baaidhan, a freshly graduated Front-End Developer (2025) passionate about crafting interactive, responsive, and user-friendly web experiences.
+With solid skills in HTML, CSS, JavaScript, Bootstrap, React, and Tailwind CSS, I specialize in turning modern design concepts into seamless, cross-device interfaces.
+Driven by a love for clean, maintainable code and continuous learning, I strive to deliver top-quality solutions that delight users and empower businesses.
 
----
 
 ## 🛠️ Tech Stack
 
