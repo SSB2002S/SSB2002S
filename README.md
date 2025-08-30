@@ -30,8 +30,8 @@
 
 | Project                                                                                                 | Description                                                                                                     | Technologies                                              |
 | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [Educational Website With React](https://github.com/SSB2002S/Educational-Website-With-React)            | A responsive educational website built with React to showcase course materials and interactive components.      | React, HTML, CSS, FontAwesome, Tailwind CSS               |
-| [To-Do List Using React-Redux Toolkit](https://github.com/SSB2002S/To-Do-List-Using-React-ReduxToolkit) | A feature-rich to-do list app demonstrating state management with Redux Toolkit and asynchronous data fetching. | React, HTML, CSS, FontAwesome, Redux Toolkit, Sweetalert2 |
+| [Educational Website With React](https://ssb2002s.github.io/Educational-Website-With-React/)            | A responsive educational website built with React to showcase course materials and interactive components.      | React, HTML, CSS, FontAwesome, Tailwind CSS               |
+| [To-Do List Using React-Redux Toolkit](https://ssb2002s.github.io/To-Do-List-Using-React-ReduxToolkit/) | A feature-rich to-do list app demonstrating state management with Redux Toolkit and asynchronous data fetching. | React, HTML, CSS, FontAwesome, Redux Toolkit, Sweetalert2 |
 | [Product Management System](https://ssb2002s.github.io/Product-Managment-System/)                       | A simple product management system.                                                                             | HTML, CSS, JavaScript, Sweetalert2, Fontawesome           |
 
 ---
